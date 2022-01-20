@@ -1,3 +1,6 @@
-* Este es un archivo de ejemplo.
-**
-*Estas tres primeras l neas estaban escritas inicialmente.
+*Este es un archivo de ejemplo
+*
+Estas tres primeras lineas estaban escritas inicialmente.
+
+
+
