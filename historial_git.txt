@@ -1,0 +1,99 @@
+commit da7f666fd4d782027b1c3ec973175af88a81177a
+Merge: a8a7c6f 5ad5f96
+Author: Juanjo Rojo <juanjorojocarrillo55@gmail.com>
+Date:   Thu Jan 20 23:49:46 2022 +0100
+
+    Conflicto resuelto en un fichero ejemplo
+
+commit 5ad5f96b9e645e12b80a0108b8544620b2151479
+Author: Juan Jose <84035522+RojoCarrillo@users.noreply.github.com>
+Date:   Thu Jan 20 23:42:30 2022 +0100
+
+    cambios GitHub
+
+commit a8a7c6f9802561c2c829776807ca1667598a5d4a
+Author: Juanjo Rojo <juanjorojocarrillo55@gmail.com>
+Date:   Thu Jan 20 23:41:44 2022 +0100
+
+    cambio local
+
+commit e3ccd0a7adc4248268e8a4216eb95d15e3a60706
+Author: Juanjo Rojo <juanjorojocarrillo55@gmail.com>
+Date:   Thu Jan 20 23:37:32 2022 +0100
+
+    Resolviendo conflictos en un fichero ejemplo
+
+commit 46e1c995ad8b9b9aff239012ed2aab918288d7c2
+Merge: af5ab60 c51a500
+Author: Juanjo Rojo <juanjorojocarrillo55@gmail.com>
+Date:   Thu Jan 20 23:34:29 2022 +0100
+
+    borrado
+
+commit af5ab604347f644ef88e219c8a1633dac5419bf8
+Author: Juanjo Rojo <juanjorojocarrillo55@gmail.com>
+Date:   Thu Jan 20 23:28:02 2022 +0100
+
+    cambios
+
+commit d6ca6f4545c45ba62879a13c85e7e8fd52ba936f
+Author: Juanjo Rojo <juanjorojocarrillo55@gmail.com>
+Date:   Thu Jan 20 22:45:31 2022 +0100
+
+    Resolviendo conclictos en un fichero ejemplo
+
+commit c51a500c1d8b02297e6eda490e659213260161df
+Author: Juan Jose <84035522+RojoCarrillo@users.noreply.github.com>
+Date:   Thu Jan 20 22:43:36 2022 +0100
+
+    Voy a empezar de nuevo
+
+commit 4081b471b19ba9c90fcaf4b02f0144614a4982ca
+Author: Juan Jose <84035522+RojoCarrillo@users.noreply.github.com>
+Date:   Thu Jan 20 22:20:19 2022 +0100
+
+    Resolviendo conflictos en un fichero ejemplo
+
+commit 938a553610094c9c89a2ceeeb2b1dcbc40450788
+Author: Juanjo Rojo <juanjorojocarrillo55@gmail.com>
+Date:   Thu Jan 20 22:03:47 2022 +0100
+
+    Añadiendo el fichero ejemplo.txt
+
+commit 00e2e095d83f8e03ff524f54ad4b897a45d5d23c
+Merge: a38c1fc 8165622
+Author: Juanjo Rojo <juanjorojocarrillo55@gmail.com>
+Date:   Thu Jan 20 20:04:49 2022 +0100
+
+    Merge branch 'CutFiles' into main
+    :q
+
+commit 8165622ae31165b332d6fa7e54f807bc26e5618e
+Author: Juanjo Rojo <juanjorojocarrillo55@gmail.com>
+Date:   Thu Jan 20 19:44:06 2022 +0100
+
+    Ficheros fastq cortados
+
+commit a38c1fc91dd9b9df263f76338ebe49f5e75ef85d
+Author: Juan Jose <84035522+RojoCarrillo@users.noreply.github.com>
+Date:   Thu Jan 20 15:13:23 2022 +0100
+
+    Update README.md
+
+commit 9ff3cf9c3621c61416a608958dd1fc933a030e37
+Author: Juanjo Rojo <juanjorojocarrillo55@gmail.com>
+Date:   Thu Jan 20 11:10:47 2022 +0100
+
+    Añadidos los ficheros de datos fastq
+
+commit 4adad2d4dac9e35ed56ac116d178dfbb8a4e590d
+Author: Juan Jose <84035522+RojoCarrillo@users.noreply.github.com>
+Date:   Thu Jan 20 10:41:57 2022 +0100
+
+    Update README.md
+
+commit ce02c0cc9d82e296553a5adf7929af8f5b2d9d87
+Author: Juan Jose <84035522+RojoCarrillo@users.noreply.github.com>
+Date:   Thu Jan 20 10:34:31 2022 +0100
+
+    Initial commit
